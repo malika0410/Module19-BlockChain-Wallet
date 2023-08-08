@@ -79,6 +79,8 @@ pip install bip44
 
 ![image](https://github.com/malika0410/Module19-BlockChain-Wallet/blob/main/Images/ganache_transaction.PNG)
 
+![image](https://github.com/malika0410/Module19-BlockChain-Wallet/blob/main/Images/ganache_balanceAddress.PNG)
+
 
 
 
