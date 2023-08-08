@@ -29,7 +29,7 @@ def generate_account():
     private, public = wallet.derive_account("eth")
 
     # Convert private key into an Ethereum account
-    account = Account.privateKeyToAccount(private)
+    account = Account.from_key(private)
 
     return account
 
@@ -62,7 +62,7 @@ def send_transaction(w3, account, to, wage):
         "from": account.address,
         "value": value,
         "gas": gasEstimate,
-        "gasPrice": 0,
+        "gasPrice": 2000000000000,
         "nonce": w3.eth.getTransactionCount(account.address)
     }
 
