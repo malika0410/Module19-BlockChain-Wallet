@@ -65,4 +65,24 @@ pip install bip44
 ```
 ---
 
+## RESULTS :
+
+### Streamlit launch on terminal using following command - ```streamlit run fintech_finder.py``` 
+
+![image](https://github.com/malika0410/Module19-BlockChain-Wallet/blob/main/Images/streamlit.PNG)
+
+### Web Application Interface and transaction made for each candidate.
+
+![image](https://github.com/malika0410/Module19-BlockChain-Wallet/blob/main/Images/ash_trans.PNG)
+
+![image](https://github.com/malika0410/Module19-BlockChain-Wallet/blob/main/Images/lane_trans.PNG)
+
+![image](https://github.com/malika0410/Module19-BlockChain-Wallet/blob/main/Images/ganache_transaction.PNG)
+
+
+
+
+
+
+
 
